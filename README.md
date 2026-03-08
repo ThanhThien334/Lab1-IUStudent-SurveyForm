@@ -1,4 +1,4 @@
 # username.github.io
 Web Lab Practice as University Student
 
-Ex4 from Lab 2
+Ex3 from Lab 1
